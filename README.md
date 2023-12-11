@@ -1,5 +1,8 @@
 # Garbage Classification Project
 
+![Garbage classification image](https://img2.chinadaily.com.cn/images/201906/06/5cf8521ba3101765669db8f4.jpeg)
+
+
 ## Introduction
 
 Garbage recycling is a crucial aspect of environmental preservation. This project focuses on improving the accuracy of garbage sorting through a detailed garbage classification model. The dataset comprises 15,150 images categorized into 12 classes, including paper, cardboard, biological, metal, plastic, green-glass, brown-glass, white-glass, clothes, shoes, batteries, and trash.
